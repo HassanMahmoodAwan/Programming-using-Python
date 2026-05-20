@@ -28,9 +28,11 @@ input("Enter input b\w 0-10: ")
 number = input("Enter any float number: ")
 
 
-# ********* Data Types **************
+# ********* Basic Data Types **************
 """
 int() ==> Integer, number without decimal Part example 0, -5, 10
 str() ==> String, any text 
-
+float() ==> Number with decimal part example 0.5, -3.14, 2.0
+bool() ==> Boolean, True or False
 """
+
